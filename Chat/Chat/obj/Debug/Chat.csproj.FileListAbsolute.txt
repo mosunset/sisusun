@@ -1,0 +1,14 @@
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\Chat.exe.config
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\Chat.exe
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\Chat.pdb
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\MySqlConnector.dll
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\System.Buffers.dll
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\System.Memory.dll
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.Form1.resources
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.exe
+Y:\17令和３年度\3G_情報システム実習\01浅野友哉\Chat\Chat\obj\Debug\Chat.pdb
